@@ -7,7 +7,7 @@
 
  <p align="center" dir="auto">
 <!--   GMAIL -->
-     <a href="mailto:sachinronson16@gmail.com">
+     <a href="mailto:dsilva.sachinronson@nidec.com">
     <img src="https://www.svgrepo.com/show/452213/gmail.svg" height="40px" alt="mail" data-canonical-src="https://www.svgrepo.com/show/223047/gmail.svg" style="max-width: 100%;">
     </a>&nbsp;&nbsp;
 <!--   INSTAGRAM  -->
@@ -135,7 +135,7 @@ ___
 </p>
 <p align="center" dir="auto">
 <!--   GMAIL -->
-     <a href="mailto:sachinronson16@gmail.com">
+     <a href="mailto:dsilva.sachinronson@gmail.com">
     <img src="https://www.svgrepo.com/show/452213/gmail.svg" height="40px" alt="mail" data-canonical-src="https://www.svgrepo.com/show/223047/gmail.svg" style="max-width: 100%;">
     </a>&nbsp;&nbsp;
 <!--   INSTAGRAM  -->
