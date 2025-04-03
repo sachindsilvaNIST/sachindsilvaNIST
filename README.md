@@ -116,7 +116,7 @@ ___
   
 <div align="center">
   <a href="http://github-readme-streak-stats.herokuapp.com?user=sachindsilvaNIST&theme=dark">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=sachindsilvaNIST&theme=radical" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachindsilvaNIST&theme=radical" />
 </a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachindsilvaNIST&label=Profile%20views&color=0e75b6&style=flat" alt="sachindsilvaNIST" /> </p>
